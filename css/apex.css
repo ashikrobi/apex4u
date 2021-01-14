@@ -1,11 +1,16 @@
+main {
+    background-color: #24132A;
+    font-family: 'Roboto', sans-serif;
+}
 .large-shoe img {
     width: 700px;
 }
 .title-font {
     font-family: 'Croissant One', cursive;
+    /* color: #F4F6F5; */
 }
-.body-font {
-    font-family: 'Roboto', sans-serif;
+.sub-heading {
+    color: #F4F6F5;
 }
 #shopping {
     width: 30px;
@@ -16,3 +21,15 @@
 .mono-card img {
     width: 100px;
 }
+.brand-logo img {
+    width: 200px;
+}
+.inquiry {
+    background-color: #F4F6F5;
+
+}
+.inquiry a {
+    text-decoration: none;
+    color: black;
+}
+
